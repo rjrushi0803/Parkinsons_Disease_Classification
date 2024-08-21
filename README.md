@@ -5,8 +5,8 @@
 1. here we have Standerdize the data
 # Models
 1. Support Vector Classifier
-   training accuracy => 88.46%
-   testing accuracy => 87.17%
+   1. training accuracy => 88.46%
+   2. testing accuracy => 87.17%
 2. Support Vector Classifier with rbf kernal
-   training accuracy => 91.66%
-   testing accuracy => 89.74%
+   1. training accuracy => 91.66%
+   2. testing accuracy => 89.74%
